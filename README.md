@@ -105,7 +105,7 @@ export class ExampleService {
     this.mailerService.sendMail({
       to: 'joe.bloggs@example.com',
       subject: 'Testing nestjs-nodemailer-mjml',
-      templateLayoutName: 'mytemplate',
+      templateName: 'mytemplate',
       templateData: {
         applicationName: 'Overridden Name',
         emailTitle: 'My Email Title',
