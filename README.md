@@ -8,9 +8,11 @@
 <b>nestjs-nodemailer-mjml</b> is a wrapper to encapsulate the functionality of <a href="https://www.npmjs.com/package/nodemailer-mjml"><b>nodemailer-mjml</b></a> in a reusable <a href="https://nestjs.com/"><b>NestJS</b></a> module.
 
 </h4>
-
+  
 <p align="center">
-<a href="https://badge.fury.io/js/nestjs-nodemailer-mjml"><img src="https://badge.fury.io/js/nestjs-nodemailer-mjml.svg" alt="npm version" height="18"></a>
+  <a href="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/ci.yml"><img src="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://badge.fury.io/js/nestjs-nodemailer-mjml"><img src="https://badge.fury.io/js/nestjs-nodemailer-mjml.svg" alt="npm version" height="18"></a>
+  <a href="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/publish.yml"><img src="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/publish.yml/badge.svg"></a>
 </p>
 ---
 
