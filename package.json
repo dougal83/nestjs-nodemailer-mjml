@@ -1,6 +1,23 @@
 {
   "name": "nestjs-nodemailer-mjml",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "description": "Nestjs module wrapper for nodemailer-mjml",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dougal83/nestjs-nodemailer-mjml"
+  },
+  "keywords": [
+    "nestjs",
+    "nodemailer",
+    "mjml"
+  ],
+  "author": {
+    "name": "Douglas McConnachie",
+    "email": "not.dougal+git@gmail.com"
+  },
   "license": "MIT",
   "scripts": {
     "build": "nx build",
