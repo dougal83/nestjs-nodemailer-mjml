@@ -1,6 +1,6 @@
 {
   "name": "nestjs-nodemailer-mjml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Nestjs module wrapper for nodemailer-mjml",
   "publishConfig": {
     "access": "public"
