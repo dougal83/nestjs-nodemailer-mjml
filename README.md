@@ -11,7 +11,7 @@
   
 <p align="center">
   <a href="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/ci.yml"><img src="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/ci.yml/badge.svg"></a>
-  <a href="https://badge.fury.io/js/nestjs-nodemailer-mjml"><img src="https://badge.fury.io/js/nestjs-nodemailer-mjml.svg" alt="npm version" height="18"></a>
+  <a href="https://badge.fury.io/js/nestjs-nodemailer-mjml"><img src="https://badge.fury.io/js/nestjs-nodemailer-mjml.svg" alt="npm version"></a>
   <a href="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/publish.yml"><img src="https://github.com/dougal83/nestjs-nodemailer-mjml/actions/workflows/publish.yml/badge.svg"></a>
 </p>
 ---
