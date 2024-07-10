@@ -59,6 +59,6 @@
     "includedScripts": []
   },
   "type": "commonjs",
-  "main": "./src/index.js",
-  "typings": "./src/index.d.ts"
+  "main": "./dist/nestjs-nodemailer-mjml/src/index.js",
+  "typings": "./nestjs-nodemailer-mjml/src/index.d.ts"
 }
